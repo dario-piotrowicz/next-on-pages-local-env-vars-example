@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  padding: 6rem;
+}
+
+.main ul {
+  margin-block-start: 1rem;
+  margin-inline-start: 2rem;
+}
+
+.main ul li {
+  margin-block: .5rem;
+}
+
